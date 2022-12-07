@@ -1,0 +1,11 @@
+pmd.bat -d <path to predict> -f text -cache <cache pth to be fast> -r <output file> -R <ruleset path>
+
+
+PLEASE NOTE: this soft have problem with path containiong ' '.
+
+
+Example:
+G:\_tobedecided\Compressed\pmd-bin-6.11.0\pmd-bin-6.11.0\bin\pmd.bat -d G:\_tobedecided\Compressed\BLIZZARD-Replication-Package-ESEC-FSE2018-master\Corpus\eclipse.jdt.debug -f text -cache G:\_MySE\PMDResult\cache.txt -r G:\_MySE\PMDResult\eclipse.jdt.debug-orginlReport.txt -R G:\_MySE\PMDResult\basic.txt
+
+
+

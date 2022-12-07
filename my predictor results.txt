@@ -1,0 +1,46 @@
+For ecf: 
+Precision: 0.736
+Recall: 0.06506364922206506
+Accuracy: 0.5164168451106352
+F-Measure: 16.72826086956522
+Average Time for each file: 63
+Total Time for the project (ms): 176526
+
+Precision: 0.6666666666666666
+Recall: 0.3681592039800995
+Accuracy: 0.8334461746784022
+F-Measure: 4.216216216216216
+Average Time for each file (ms): 105
+Total Time for the project (ms): 620340
+
+For eclipse.jdt.debug: 
+Precision: 0.7730496453900709
+Recall: 0.1960431654676259
+Accuracy: 0.6873368146214099
+F-Measure: 6.394495412844036
+Average Time for each file (ms): 108
+Total Time for the project (ms): 165484
+
+For eclipse.jdt.ui: 
+Precision: 0.8054982817869416
+Recall: 0.34040081324426374
+Accuracy: 0.7662670449345658
+F-Measure: 4.179180887372014
+Average Time for each file (ms): 52
+Total Time for the project (ms): 573745
+
+For eclipse.pde.ui: 
+Precision: 0.6989247311827957
+Recall: 0.34607938044530495
+Accuracy: 0.6889763779527559
+F-Measure: 4.32027972027972
+Average Time for each file (ms): 71
+Total Time for the project (ms): 382720
+
+For tomcat70: 
+Precision: 0.9811320754716981
+Recall: 0.046804680468046804
+Accuracy: 0.42422596414991853
+F-Measure: 22.384615384615387
+Average Time for each file (ms): 123
+Total Time for the project (ms): 226678
