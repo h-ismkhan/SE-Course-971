@@ -1,0 +1,6 @@
+In the name of God,
+
+Please note:
+Correspondding folder of the first argument should include _buggylist.txt file (including list of -real buggy files).
+
+Please NOTE: tolearn2 does not have _buggylist.txt, because all files are backup (.ser).

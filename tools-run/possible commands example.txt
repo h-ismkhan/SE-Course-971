@@ -1,0 +1,11 @@
+In the naame of God,
+
+(1)
+
+java -jar ism.jar tolearn toPredict
+
+
+(2) - to build a backup file from tolearn NOTE: the target path should end with ".ser" 
+
+java -jar ism.jar tolearn toPredict.ser
+
